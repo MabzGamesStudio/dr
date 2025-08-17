@@ -1,0 +1,23 @@
+{
+  "minimumCommission": 1000,
+  "ethicsRequirementsStandards": [
+    
+  ],
+  "workerTasks": [
+    "h-0",
+    "dh-0",
+    "v-0"
+  ]
+  "managerTasks": [
+    "h-0",
+    "dh-0",
+    "v-0"
+  ]
+  "validatorTasks": [
+    "v-0",
+    "v-1",
+    "v-2"
+  ],
+  "validationRequirementsWhitelist": null,
+  "availableValidationTime": "Mon - Fri, 9 AM - 5PM UTC\nHolidays: Jan 1\nMinimum validation window: 24 hours"
+}
